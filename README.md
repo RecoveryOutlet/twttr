@@ -25,3 +25,7 @@ On the tweak preferences page, you’ll find 3 options separated by "Dim" "Light
 - Save Theme
 - Share Theme
 - Import Theme
+
+##### What's new?
+
+Click here to go see the [Changelog](https://github.com/RecoveryOutlet/twttr/master/CHANGELOG.md)
