@@ -1,6 +1,6 @@
 ![twttr](Repo_Assets/changelog.png)
 
-# twttr Recent changes
+# twttr Changelog
 
 All notable changes to "twttr" tweak are documented in this file.
 
