@@ -4,6 +4,11 @@
 
 All notable changes to "twttr" tweak are documented in this file.
 
+## 1.0.2
+
+- Added default colours button
+- Fixed preferences crashing when selecting a theme
+
 ## 1.0.1
 
 - General bug fixes
