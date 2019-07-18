@@ -4,10 +4,10 @@
 
 All notable changes to "twttr" tweak are documented in this file.
 
-## "1.0.1"
+## 1.0.1
 
 - General bug fixes
 
-## "1.0.0"
+## 1.0.0
 
 - Initial release
