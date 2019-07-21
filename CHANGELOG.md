@@ -4,6 +4,11 @@
 
 All notable changes to "twttr" tweak are documented in this file.
 
+## 1.0.3
+
+- Added Inbox message text read colour
+- Added DM read indicator colour
+
 ## 1.0.2
 
 - Added default colours button
