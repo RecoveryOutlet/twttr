@@ -8,8 +8,8 @@
 On the tweak preferences page, you’ll find 3 options separated by "Dim" "Lights Out" "Bright" which refer to the three colour modes that the official Twitter app supports.
 
 ##### Recent changes: [Full changelog](https://github.com/RecoveryOutlet/twttr/blob/master/CHANGELOG.md)
-- Added default colours button
-- Fixed preferences crashing when selecting a theme
+- Added Inbox message text read colour
+- Added DM read indicator colour
 
 #####  twttr Modes:
 - Dim
